@@ -58,6 +58,10 @@ ul, li {
   border-radius: 2px;
 }
 
+.img img {
+  transition: 0.4s linear;
+}
+
 .img img:hover {
   transform: scale(1.15);
   transition: 0.4s linear;
